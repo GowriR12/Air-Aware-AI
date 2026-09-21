@@ -13,18 +13,14 @@ SDG 11 – Sustainable Cities and Communities
 
 SDG 13 – Climate Action
 
-Target Users
+Target Users:
 
-Students
+->Students
 
-General public
+->General public
 
-City residents
+->City residents
 
-People who want to monitor local air pollution
-
-Design
-
-Create a clean, modern environmental dashboard.
+Designed to create a clean, modern environmental dashboard.
 
 
